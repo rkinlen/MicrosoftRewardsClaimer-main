@@ -1,0 +1,20 @@
+{
+    "rorykinlen@hotmail.com": {
+        "Last check": "2023-02-07",
+        "Today's points": 0,
+        "Points": 0,
+        "Daily": false,
+        "Punch cards": false,
+        "More promotions": false,
+        "PC searches": false
+    },
+    "krishhuber@hotmail.com": {
+        "Last check": "",
+        "Today's points": 0,
+        "Points": 0,
+        "Daily": false,
+        "Punch cards": false,
+        "More promotions": false,
+        "PC searches": false
+    }
+}
